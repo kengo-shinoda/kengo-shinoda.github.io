@@ -1,0 +1,19 @@
+---
+title: "Publications"
+---
+
+[日本語へ戻る](../publications.qmd)
+
+## Selected Publications
+
+1. Your Name. "Article Title." *Journal or Conference*, Year.
+2. Your Name and Coauthor. "Article Title." *Journal or Conference*, Year.
+3. Your Name. "Article Title." *Journal or Conference*, Year.
+
+## Working Papers
+
+1. Your Name. "Working Paper Title." Manuscript in preparation.
+
+## Other Outputs
+
+- Dataset, software, or report title.

@@ -1,0 +1,20 @@
+---
+title: "論文 / Publications"
+---
+
+
+
+## 投稿論文
+
+1. Kengo Shinoda, Ryo Sawada, Yudai Suwa, Takeru Suzuki, Ryosuke Hirai, Kazunari Iwasaki, Kengo Tomida, “Impacts of hydrogen envelope on supernova fallback and the resulting compact remnant masses,” *Monthly Notices of the Royal Astronomical Society* (submitted).
+
+2. Kengo Shinoda, Ryo Sawada, Yudai Suwa, Takeru Suzuki, Ryosuke Hirai, Kazunari Iwasaki, Kengo Tomida, “Impacts of hydrogen envelope on supernova fallback and the resulting compact remnant masses,” *Classical and Quantum Gravity* (submitted).
+
+
+## ワーキングペーパー
+
+1. 著者名. 「ワーキングペーパータイトル」. 執筆中.
+
+## その他の成果
+
+- データセット、ソフトウェア、報告書など.

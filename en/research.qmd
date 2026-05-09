@@ -1,0 +1,29 @@
+---
+title: "Research"
+---
+
+[日本語へ戻る](../research.qmd)
+
+## Overview
+
+Add a concise overview of your research agenda here.
+
+## Themes
+
+### Research Theme One
+
+Add a short description of the question, approach, and contribution.
+
+### Research Theme Two
+
+Add a short description of the question, approach, and contribution.
+
+### Research Theme Three
+
+Add a short description of the question, approach, and contribution.
+
+## Current Projects
+
+- Project one: add a brief description.
+- Project two: add a brief description.
+- Project three: add a brief description.

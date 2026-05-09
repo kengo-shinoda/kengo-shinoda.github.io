@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - .nojekyll
+
+lang: ja
+
+website:
+  title: "篠田兼伍"
+  navbar:
+    left:
+      - href: index.qmd
+        text: ホーム
+      - href: about.qmd
+        text: プロフィール
+      - href: research.qmd
+        text: 研究
+      - href: publications.qmd
+        text: 業績
+      - href: presentations.qmd
+        text: 講演
+      - href: notes.qmd
+        text: ノート
+    right:
+      - href: en/index.qmd
+        text: English
+  page-footer:
+    center: "© 2026 Kengo Shinoda"
+
+format:
+  html:
+    theme: litera
+    toc: true
+    link-external-newwindow: true

@@ -1,0 +1,8 @@
+---
+title: "Example Note"
+date: 2026-05-04
+categories: [notes]
+description: "A short example note used to confirm the Notes listing."
+---
+
+This is an example note. Add new `.qmd` files under `notes/` and they will appear automatically on the [Notes](../notes.qmd) page after rendering.

@@ -1,0 +1,10 @@
+---
+title: "ノート"
+listing:
+  contents: notes
+  type: default
+  sort: "date desc"
+  categories: true
+---
+
+研究ノート、読書メモ、プロジェクトの記録をまとめます。

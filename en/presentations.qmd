@@ -1,0 +1,19 @@
+---
+title: "Presentations"
+---
+
+[日本語へ戻る](../presentations.qmd)
+
+## Invited Talks
+
+1. "Presentation Title." Event or Institution, Year.
+2. "Presentation Title." Event or Institution, Year.
+
+## Conference Presentations
+
+1. "Presentation Title." Conference Name, Year.
+2. "Presentation Title." Conference Name, Year.
+
+## Workshops and Seminars
+
+- Workshop or seminar title, Year.
