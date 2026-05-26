@@ -10,10 +10,15 @@ title: "論文 / Publications"
 
 2. Kengo Shinoda, Ryo Sawada, Yudai Suwa, Takeru Suzuki, Ryosuke Hirai, Kazunari Iwasaki, Kengo Tomida, “Impacts of hydrogen envelope on supernova fallback and the resulting compact remnant masses,” *Classical and Quantum Gravity* (submitted).
 
+## 研究課題・計算資源
 
-## ワーキングペーパー
+1. 篠田兼伍（研究代表者），「3次元一般相対論的磁気流体計算で探る中性子星自転周期多様性の起源」，学際大規模情報基盤共同利用・共同研究拠点（JHPCN）萌芽型共同研究課題 採択，課題番号：EX25310，2025年度。
+   東京大学情報基盤センター Miyabi 利用課題（若手・女性），課題番号：2025-B-015，プロジェクトコード：gq89，利用期間：2025年10月-2026年3月。
 
-1. 著者名. 「ワーキングペーパータイトル」. 執筆中.
+
+## 準備中論文
+
+1. Kengo Shinoda, Ryo Tazaki, Takato Tokuno, Yudai Suwa, manuscript in preparation on micron-sized graphite formation in supernova ejecta.
 
 ## その他の成果
 
