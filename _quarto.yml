@@ -7,7 +7,7 @@ project:
 lang: ja
 
 website:
-  title: "篠田兼伍"
+  title: "Website of Kengo Shinoda"
   navbar:
     left:
       - href: index.qmd
@@ -31,5 +31,6 @@ website:
 format:
   html:
     theme: litera
+    css: styles.css
     toc: true
     link-external-newwindow: true
