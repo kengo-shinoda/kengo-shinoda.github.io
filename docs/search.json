@@ -63,25 +63,11 @@
     "text": "日本語へ戻る"
   },
   {
-    "objectID": "en/research.html#overview",
-    "href": "en/research.html#overview",
+    "objectID": "en/research.html#supernova-fallback",
+    "href": "en/research.html#supernova-fallback",
     "title": "Research",
-    "section": "Overview",
-    "text": "Overview\nAdd a concise overview of your research agenda here."
-  },
-  {
-    "objectID": "en/research.html#themes",
-    "href": "en/research.html#themes",
-    "title": "Research",
-    "section": "Themes",
-    "text": "Themes\n\nResearch Theme One\nAdd a short description of the question, approach, and contribution.\n\n\nResearch Theme Two\nAdd a short description of the question, approach, and contribution.\n\n\nResearch Theme Three\nAdd a short description of the question, approach, and contribution."
-  },
-  {
-    "objectID": "en/research.html#current-projects",
-    "href": "en/research.html#current-projects",
-    "title": "Research",
-    "section": "Current Projects",
-    "text": "Current Projects\n\nProject one: add a brief description.\nProject two: add a brief description.\nProject three: add a brief description."
+    "section": "Supernova fallback",
+    "text": "Supernova fallback\n\nNot all material launched by an exploding star escapes into space. By following the matter that returns to the centre, I study how neutron stars and black holes acquire their final masses.\n\nIn a core-collapse supernova, part of the ejecta can fall back onto the newly formed compact object. This fallback helps determine the final mass of a neutron star or black hole. Using one-dimensional hydrodynamic simulations, I compared progenitors that differ only in whether they retain their hydrogen envelope. The calculations reveal a sharp transition: when the explosion energy is approximately two to three times the binding energy of the hydrogen envelope, the reverse shock switches between returning to the centre and escaping outwards. This changes the remnant mass by more than two solar masses. Progenitors with different initial masses follow a common relation once the explosion energy is normalized by the envelope binding energy, providing a compact prescription for population-synthesis calculations.\n\n\nQuestion\nHow does the hydrogen envelope alter supernova fallback?\n\n\nMethod\nOne-dimensional models differing only in the hydrogen envelope\n\n\nKey result\nA universal mass transition set by the envelope binding energy\n\n\n\nThe hydrogen envelope launches a reverse shock\n\n\n\n01 Before entering the hydrogen envelope, the shocks evolve almost identically. Inside the envelope, a reverse shock develops and drives matter back towards the centre.\n\n\n\n\nExplosion strength selects the remnant mass\n\n\n\n02 Every progenitor from 18 to 28 solar masses exhibits a sharp transition in remnant mass. Its location is set by roughly two to three times the hydrogen-envelope binding energy.\n\n\n\nWhy this matters\nThe hydrogen envelope is not merely the outermost part of the star. Through the reverse shock, it can substantially alter the compact object left at the centre. Its binding energy therefore offers a practical way to predict the remnant mass after fallback.\n\n\nFigures adapted from seminar slides based on “Impacts of hydrogen envelope on supernova fallback and the resulting compact remnant masses”."
   },
   {
     "objectID": "about.html",
@@ -165,28 +151,14 @@
     "href": "research.html",
     "title": "研究",
     "section": "",
-    "text": "ここに研究全体の概要を記入します。主な問い、対象、方法、貢献を簡潔にまとめます。"
+    "text": "SUPERNOVA THEORY · PROJECT 01\n\n\n\n\n爆発した星の物質は、すべて宇宙へ飛び去るとは限りません。中心へ戻る物質を追うことで、中性子星とブラックホールがどのような質量になるのかを探ります。\n\n大質量星の重力崩壊型超新星では、爆発で放出された物質の一部が中心天体へ再降着する「フォールバック」が、中性子星・ブラックホールの最終質量を左右します。本研究では、水素外層だけを取り除いたモデルとの比較を含む一次元流体計算により、外層がフォールバックをどう変えるかを調べました。その結果、爆発エネルギーが水素外層の重力結合エネルギーの約2〜3倍に達する境界で、逆向き衝撃波が中心へ戻るか外へ逃げるかが切り替わり、残骸質量が2太陽質量以上も急変することを発見しました。異なる初期質量の星でも、外層の結合エネルギーで規格化すると共通の関係に従います。これは、観測されるコンパクト天体の質量分布を理解し、種族合成計算へ取り込める簡潔な処方箋を与える結果です。\n\n\n問い\n水素外層はフォールバック量をどのように変えるのか\n\n\n方法\n水素外層の有無だけが異なる親星の一次元流体計算\n\n\n主要結果\n外層の結合エネルギーを基準にした普遍的な質量遷移\n\n\n\n\n\n\n\n01 水素外層に入る前は、水素あり・なしのモデルで衝撃波の進み方はほぼ同じです。外層へ入ると逆向き衝撃波が生まれ、内向きの流れを作ります。\n\n\n\n\n\n\n\n\n02 初期質量18〜28太陽質量のすべてのモデルに、残骸質量が急変する遷移領域が現れます。その境界は、水素外層の重力結合エネルギーの約2〜3倍で整理できます。\n\n\n\n\n水素外層は単なる「星の外側」ではなく、逆向き衝撃波を介して中心のコンパクト天体の質量を大きく変えます。外層の結合エネルギーを測れば、フォールバック後の残骸質量を予測する手がかりになります。\n\n\nFigures adapted from seminar slides based on “Impacts of hydrogen envelope on supernova fallback and the resulting compact remnant masses”."
   },
   {
-    "objectID": "research.html#概要",
-    "href": "research.html#概要",
+    "objectID": "research.html#超新星フォールバック",
+    "href": "research.html#超新星フォールバック",
     "title": "研究",
     "section": "",
-    "text": "ここに研究全体の概要を記入します。主な問い、対象、方法、貢献を簡潔にまとめます。"
-  },
-  {
-    "objectID": "research.html#研究テーマ",
-    "href": "research.html#研究テーマ",
-    "title": "研究",
-    "section": "研究テーマ",
-    "text": "研究テーマ\n\n研究テーマ一\n研究上の問い、アプローチ、期待される貢献を記入します。\n\n\n研究テーマ二\n研究上の問い、アプローチ、期待される貢献を記入します。\n\n\n研究テーマ三\n研究上の問い、アプローチ、期待される貢献を記入します。"
-  },
-  {
-    "objectID": "research.html#進行中のプロジェクト",
-    "href": "research.html#進行中のプロジェクト",
-    "title": "研究",
-    "section": "進行中のプロジェクト",
-    "text": "進行中のプロジェクト\n\nプロジェクト一: 概要を記入します。\nプロジェクト二: 概要を記入します。\nプロジェクト三: 概要を記入します。"
+    "text": "爆発した星の物質は、すべて宇宙へ飛び去るとは限りません。中心へ戻る物質を追うことで、中性子星とブラックホールがどのような質量になるのかを探ります。\n\n大質量星の重力崩壊型超新星では、爆発で放出された物質の一部が中心天体へ再降着する「フォールバック」が、中性子星・ブラックホールの最終質量を左右します。本研究では、水素外層だけを取り除いたモデルとの比較を含む一次元流体計算により、外層がフォールバックをどう変えるかを調べました。その結果、爆発エネルギーが水素外層の重力結合エネルギーの約2〜3倍に達する境界で、逆向き衝撃波が中心へ戻るか外へ逃げるかが切り替わり、残骸質量が2太陽質量以上も急変することを発見しました。異なる初期質量の星でも、外層の結合エネルギーで規格化すると共通の関係に従います。これは、観測されるコンパクト天体の質量分布を理解し、種族合成計算へ取り込める簡潔な処方箋を与える結果です。\n\n\n問い\n水素外層はフォールバック量をどのように変えるのか\n\n\n方法\n水素外層の有無だけが異なる親星の一次元流体計算\n\n\n主要結果\n外層の結合エネルギーを基準にした普遍的な質量遷移\n\n\n\n\n\n\n\n01 水素外層に入る前は、水素あり・なしのモデルで衝撃波の進み方はほぼ同じです。外層へ入ると逆向き衝撃波が生まれ、内向きの流れを作ります。\n\n\n\n\n\n\n\n\n02 初期質量18〜28太陽質量のすべてのモデルに、残骸質量が急変する遷移領域が現れます。その境界は、水素外層の重力結合エネルギーの約2〜3倍で整理できます。\n\n\n\n\n水素外層は単なる「星の外側」ではなく、逆向き衝撃波を介して中心のコンパクト天体の質量を大きく変えます。外層の結合エネルギーを測れば、フォールバック後の残骸質量を予測する手がかりになります。\n\n\nFigures adapted from seminar slides based on “Impacts of hydrogen envelope on supernova fallback and the resulting compact remnant masses”."
   },
   {
     "objectID": "notes.html",
