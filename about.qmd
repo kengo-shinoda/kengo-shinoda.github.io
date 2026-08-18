@@ -39,5 +39,5 @@ title: "プロフィール"
 ## 連絡先
 
 - Email: kengo0317_at_g.ecc.u-tokyo.ac.jp
-- GitHub: https://github.com/kengo-shinoda
-- ORCID: <https://orcid.org/0000-0000-0000-0000>
+- GitHub: <https://github.com/kengo-shinoda>
+- ORCID: <https://orcid.org/0009-0006-0552-9925>
