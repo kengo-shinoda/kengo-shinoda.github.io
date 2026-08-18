@@ -12,9 +12,19 @@
   --site-white: #ffffff;
 }
 
+html[lang="ja"] {
+  --site-japanese-font: "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", "YuGothic", "Noto Sans JP", sans-serif;
+  --bs-body-font-family: var(--site-japanese-font);
+  --bs-font-sans-serif: var(--site-japanese-font);
+}
+
 body {
   color: var(--site-gray-900);
   background: #f7f8f9;
+}
+
+html[lang="ja"] body {
+  font-family: var(--site-japanese-font);
 }
 
 a {
