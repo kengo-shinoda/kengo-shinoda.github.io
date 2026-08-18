@@ -8,6 +8,5 @@ Welcome. This is the English section of the personal research website.
 
 This section includes selected English pages:
 
-- [Research](research.qmd)
 - [Publications](publications.qmd)
 - [Presentations](presentations.qmd)

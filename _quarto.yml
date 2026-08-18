@@ -1,6 +1,16 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - index.qmd
+    - about.qmd
+    - publications.qmd
+    - presentations.qmd
+    - notes.qmd
+    - notes/
+    - en/index.qmd
+    - en/publications.qmd
+    - en/presentations.qmd
   resources:
     - .nojekyll
 
@@ -14,8 +24,6 @@ website:
         text: ホーム
       - href: about.qmd
         text: プロフィール
-      - href: research.qmd
-        text: 研究
       - href: publications.qmd
         text: 業績
       - href: presentations.qmd

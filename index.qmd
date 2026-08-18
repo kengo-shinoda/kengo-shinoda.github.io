@@ -26,51 +26,15 @@ toc: false
 
 ## ようこそ
 
-東京大学大学院理学系研究科 天文学専攻の博士課程に在籍しています。超新星爆発とコンパクト天体の形成を、理論・数値計算の立場から研究しています。
+東京大学大学院理学系研究科 天文学専攻の博士課程に在籍しています。
 
-主な研究テーマは、**超新星爆発とフォールバック**、**失敗型超新星におけるブラックホール・ダスト形成**、そして**分子動力学計算**です。
-
-研究内容やこれまでの活動については、[研究](research.qmd)、[業績](publications.qmd)、[講演](presentations.qmd) の各ページをご覧ください。
+これまでの活動については、[業績](publications.qmd)、[講演](presentations.qmd) の各ページをご覧ください。
 
 ::: {.profile-actions}
-[研究を見る](research.qmd){.profile-action .profile-action--primary}
 [プロフィール](about.qmd){.profile-action .profile-action--secondary}
 :::
 :::
 :::
 :::
 
-::: {.home-topics}
-::: {.home-topics__inner}
-<p class="section-label">RESEARCH INTERESTS</p>
-
-## 研究関心
-
-::: {.topic-grid}
-::: {.topic-card}
-<span class="topic-card__number">01</span>
-
-### 超新星爆発
-
-爆発機構と恒星物質の時間発展を理論的に探ります。
-:::
-
-::: {.topic-card}
-<span class="topic-card__number">02</span>
-
-### フォールバック
-
-爆発後に中心天体へ戻る物質と、その影響を研究します。
-:::
-
-::: {.topic-card}
-<span class="topic-card__number">03</span>
-
-### ダスト形成
-
-失敗型超新星の環境で起こるダスト形成過程を調べます。
-:::
-:::
-:::
-:::
 :::
