@@ -27,6 +27,11 @@ html[lang="ja"] body {
   font-family: var(--site-japanese-font);
 }
 
+html[lang="ja"] #quarto-content,
+html[lang="ja"] #quarto-content :is(h1, h2, h3, h4, h5, h6, p, li, a, span, strong, em) {
+  font-family: var(--site-japanese-font);
+}
+
 a {
   color: var(--site-blue-700);
 }
