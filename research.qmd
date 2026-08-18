@@ -1,6 +1,6 @@
 ---
 title: "研究"
-description: "超新星フォールバックとコンパクト天体形成に関する研究"
+description: "超新星爆発とブラックホール形成に関する研究"
 ---
 
 ::: {.research-page}
@@ -59,4 +59,64 @@ description: "超新星フォールバックとコンパクト天体形成に関
 :::
 
 <p class="research-source">Figures adapted from seminar slides based on <cite>“Impacts of hydrogen envelope on supernova fallback and the resulting compact remnant masses”</cite>.</p>
+:::
+
+<hr class="research-project-divider">
+
+::: {.research-page .research-page--dust}
+<p class="research-kicker">FAILED SUPERNOVAE · PROJECT 02</p>
+
+## 失敗型超新星：ダストで探るブラックホール形成
+
+<p class="research-lead">星が消えたあとに残る赤外線の光から、ブラックホール誕生の痕跡を読み解きます。</p>
+
+大質量星の中には、明るい爆発を起こさず、物質の大部分が落下してブラックホールを残す「失敗型超新星」があると考えられています。この暗い現象を捉える鍵が、わずかに放出された物質中で形成されるダストの赤外線放射です。本研究では、放出物質の熱進化、ダストの核生成・成長、放射輸送を時間依存で接続しました。その結果、爆発後約1000日からダストが効率的に形成され、中心光を中間赤外線へ再放射し、約10 µmにシリケートの吸収構造を作ることが分かりました。約4000日後のモデルスペクトルは候補天体M31-2014-DS1のJWST観測と概ね一致します。長期赤外線観測と中間赤外線分光が、可視光では見えにくいブラックホール形成を探る有力な手段になることを示す研究です。
+
+::: {.research-facts}
+::: {.research-fact}
+<span class="research-fact__label">問い</span>
+
+暗いブラックホール形成を赤外線残光からどう見つけるか
+:::
+
+::: {.research-fact}
+<span class="research-fact__label">方法</span>
+
+熱進化、ダスト形成、光学特性、放射輸送の時間依存計算
+:::
+
+::: {.research-fact}
+<span class="research-fact__label">主要結果</span>
+
+約10 µmのシリケート構造と長期間続く赤外線残光
+:::
+:::
+
+### ダストが中心光を赤外線へ変換する
+
+::: {.research-figure}
+```{=html}
+<img src="images/research/failed-supernova/sed-evolution.png" alt="爆発後1000日から5000日までのスペクトルエネルギー分布の進化。ダスト形成後に赤外線成分と10マイクロメートル付近のシリケート吸収構造が現れる。" loading="lazy">
+```
+
+<p class="research-figure__caption"><span>01</span> 低エネルギーで放出された物質はゆっくり膨張し、高密度のまま冷えるため、爆発後約1000日からダストが効率的に形成されます。中心光は中間赤外線へ再処理され、約10 µmにシリケート特有の構造が現れます。</p>
+:::
+
+### 候補天体のJWSTスペクトルを再現する
+
+::: {.research-figure}
+```{=html}
+<img src="images/research/failed-supernova/model-observation-comparison.png" alt="爆発後約4000日のモデルスペクトルと、失敗型超新星候補M31-2014-DS1の観測スペクトルの比較。" loading="lazy">
+```
+
+<p class="research-figure__caption"><span>02</span> 爆発後約4000日のモデル（左）は、M31-2014-DS1のJWST観測（右）で得られた赤外線光度、連続成分、10 µm付近の構造を概ね再現します。</p>
+:::
+
+::: {.research-takeaway}
+#### この研究が示すこと
+
+赤外線が明るくなる時刻は、ブラックホールが生まれた瞬間ではなく、放出物質がダスト形成温度まで冷えた時刻で決まります。可視光の減光、赤外線SED、ダスト組成に由来する吸収構造を組み合わせることで、崩壊時刻と放出物質の性質を制限できます。
+:::
+
+<p class="research-source">Figures from <cite>「失敗型超新星」</cite>, 2026年度 第56回 天文・天体物理若手夏の学校.</p>
 :::
