@@ -4,16 +4,12 @@ title: "Publications"
 
 [日本語へ戻る](../publications.qmd)
 
-## Selected Publications
+## Publications
 
-1. Your Name. "Article Title." *Journal or Conference*, Year.
-2. Your Name and Coauthor. "Article Title." *Journal or Conference*, Year.
-3. Your Name. "Article Title." *Journal or Conference*, Year.
+1. Kengo Shinoda, Yudai Suwa, Ryosuke Hirai, Ryo Sawada, Kengo Tomida, Kazunari Iwasaki, Takeru K Suzuki, “The correlation between supernova fallback and progenitor’s hydrogen envelope,” *Classical and Quantum Gravity*, **43** (14), 145020 (2026). [https://doi.org/10.1088/1361-6382/ae7ee9](https://doi.org/10.1088/1361-6382/ae7ee9) (published)
 
-## Working Papers
+2. Kengo Shinoda, Ryo Sawada, Yudai Suwa, Takeru Suzuki, Ryosuke Hirai, Kazunari Iwasaki, Kengo Tomida, “Impacts of hydrogen envelope on supernova fallback and the resulting compact remnant masses,” *Monthly Notices of the Royal Astronomical Society* (accepted; proofs pending).
 
-1. Your Name. "Working Paper Title." Manuscript in preparation.
+## Papers in Preparation
 
-## Other Outputs
-
-- Dataset, software, or report title.
+1. Kengo Shinoda, Ryo Tazaki, Takato Tokuno, Yudai Suwa, manuscript in preparation on micron-sized graphite formation in supernova ejecta.

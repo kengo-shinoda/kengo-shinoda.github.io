@@ -137,14 +137,14 @@
     "href": "publications.html",
     "title": "論文 / Publications",
     "section": "",
-    "text": "Kengo Shinoda, Ryo Sawada, Yudai Suwa, Takeru Suzuki, Ryosuke Hirai, Kazunari Iwasaki, Kengo Tomida, “Impacts of hydrogen envelope on supernova fallback and the resulting compact remnant masses,” Monthly Notices of the Royal Astronomical Society (submitted).\nKengo Shinoda, Ryo Sawada, Yudai Suwa, Takeru Suzuki, Ryosuke Hirai, Kazunari Iwasaki, Kengo Tomida, “Impacts of hydrogen envelope on supernova fallback and the resulting compact remnant masses,” Classical and Quantum Gravity (submitted)."
+    "text": "Kengo Shinoda, Yudai Suwa, Ryosuke Hirai, Ryo Sawada, Kengo Tomida, Kazunari Iwasaki, Takeru K Suzuki, “The correlation between supernova fallback and progenitor’s hydrogen envelope,” Classical and Quantum Gravity, 43 (14), 145020 (2026). https://doi.org/10.1088/1361-6382/ae7ee9 (published)\nKengo Shinoda, Ryo Sawada, Yudai Suwa, Takeru Suzuki, Ryosuke Hirai, Kazunari Iwasaki, Kengo Tomida, “Impacts of hydrogen envelope on supernova fallback and the resulting compact remnant masses,” Monthly Notices of the Royal Astronomical Society (accepted; proofs pending)."
   },
   {
     "objectID": "publications.html#投稿論文",
     "href": "publications.html#投稿論文",
     "title": "論文 / Publications",
-    "section": "",
-    "text": "Kengo Shinoda, Ryo Sawada, Yudai Suwa, Takeru Suzuki, Ryosuke Hirai, Kazunari Iwasaki, Kengo Tomida, “Impacts of hydrogen envelope on supernova fallback and the resulting compact remnant masses,” Monthly Notices of the Royal Astronomical Society (submitted).\nKengo Shinoda, Ryo Sawada, Yudai Suwa, Takeru Suzuki, Ryosuke Hirai, Kazunari Iwasaki, Kengo Tomida, “Impacts of hydrogen envelope on supernova fallback and the resulting compact remnant masses,” Classical and Quantum Gravity (submitted)."
+    "section": "投稿論文",
+    "text": "投稿論文\n\nKengo Shinoda, Ryo Sawada, Yudai Suwa, Takeru Suzuki, Ryosuke Hirai, Kazunari Iwasaki, Kengo Tomida, “Impacts of hydrogen envelope on supernova fallback and the resulting compact remnant masses,” Monthly Notices of the Royal Astronomical Society (submitted)."
   },
   {
     "objectID": "publications.html#研究課題計算資源",
@@ -257,5 +257,61 @@
     "title": "プロフィール",
     "section": "連絡先",
     "text": "連絡先\n\nEmail: kengo0317_at_g.ecc.u-tokyo.ac.jp\nGitHub: https://github.com/kengo-shinoda\nORCID: https://orcid.org/0009-0006-0552-9925"
+  },
+  {
+    "objectID": "publications.html#査読済み論文",
+    "href": "publications.html#査読済み論文",
+    "title": "論文 / Publications",
+    "section": "",
+    "text": "Kengo Shinoda, Yudai Suwa, Ryosuke Hirai, Ryo Sawada, Kengo Tomida, Kazunari Iwasaki, Takeru K Suzuki, “The correlation between supernova fallback and progenitor’s hydrogen envelope,” Classical and Quantum Gravity, 43 (14), 145020 (2026). https://doi.org/10.1088/1361-6382/ae7ee9"
+  },
+  {
+    "objectID": "publications.html#refereed-publications",
+    "href": "publications.html#refereed-publications",
+    "title": "Publications",
+    "section": "Refereed Publications",
+    "text": "Refereed Publications\n\nKengo Shinoda, Yudai Suwa, Ryosuke Hirai, Ryo Sawada, Kengo Tomida, Kazunari Iwasaki, Takeru K Suzuki, “The correlation between supernova fallback and progenitor’s hydrogen envelope,” Classical and Quantum Gravity, 43 (14), 145020 (2026). https://doi.org/10.1088/1361-6382/ae7ee9"
+  },
+  {
+    "objectID": "publications.html#papers-in-preparation",
+    "href": "publications.html#papers-in-preparation",
+    "title": "Publications",
+    "section": "Papers in Preparation",
+    "text": "Papers in Preparation\n\nKengo Shinoda, Ryo Tazaki, Takato Tokuno, Yudai Suwa, manuscript in preparation on micron-sized graphite formation in supernova ejecta."
+  },
+  {
+    "objectID": "en/publications.html#refereed-publications",
+    "href": "en/publications.html#refereed-publications",
+    "title": "Publications",
+    "section": "Refereed Publications",
+    "text": "Refereed Publications\n\nKengo Shinoda, Yudai Suwa, Ryosuke Hirai, Ryo Sawada, Kengo Tomida, Kazunari Iwasaki, Takeru K Suzuki, “The correlation between supernova fallback and progenitor’s hydrogen envelope,” Classical and Quantum Gravity, 43 (14), 145020 (2026). https://doi.org/10.1088/1361-6382/ae7ee9"
+  },
+  {
+    "objectID": "en/publications.html#papers-in-preparation",
+    "href": "en/publications.html#papers-in-preparation",
+    "title": "Publications",
+    "section": "Papers in Preparation",
+    "text": "Papers in Preparation\n\nKengo Shinoda, Ryo Tazaki, Takato Tokuno, Yudai Suwa, manuscript in preparation on micron-sized graphite formation in supernova ejecta."
+  },
+  {
+    "objectID": "en/publications.html#submitted-papers",
+    "href": "en/publications.html#submitted-papers",
+    "title": "Publications",
+    "section": "Submitted Papers",
+    "text": "Submitted Papers\n\nKengo Shinoda, Ryo Sawada, Yudai Suwa, Takeru Suzuki, Ryosuke Hirai, Kazunari Iwasaki, Kengo Tomida, “Impacts of hydrogen envelope on supernova fallback and the resulting compact remnant masses,” Monthly Notices of the Royal Astronomical Society (submitted)."
+  },
+  {
+    "objectID": "publications.html#論文",
+    "href": "publications.html#論文",
+    "title": "論文 / Publications",
+    "section": "",
+    "text": "Kengo Shinoda, Yudai Suwa, Ryosuke Hirai, Ryo Sawada, Kengo Tomida, Kazunari Iwasaki, Takeru K Suzuki, “The correlation between supernova fallback and progenitor’s hydrogen envelope,” Classical and Quantum Gravity, 43 (14), 145020 (2026). https://doi.org/10.1088/1361-6382/ae7ee9 (published)\nKengo Shinoda, Ryo Sawada, Yudai Suwa, Takeru Suzuki, Ryosuke Hirai, Kazunari Iwasaki, Kengo Tomida, “Impacts of hydrogen envelope on supernova fallback and the resulting compact remnant masses,” Monthly Notices of the Royal Astronomical Society (accepted; proofs pending)."
+  },
+  {
+    "objectID": "en/publications.html#publications",
+    "href": "en/publications.html#publications",
+    "title": "Publications",
+    "section": "Publications",
+    "text": "Publications\n\nKengo Shinoda, Yudai Suwa, Ryosuke Hirai, Ryo Sawada, Kengo Tomida, Kazunari Iwasaki, Takeru K Suzuki, “The correlation between supernova fallback and progenitor’s hydrogen envelope,” Classical and Quantum Gravity, 43 (14), 145020 (2026). https://doi.org/10.1088/1361-6382/ae7ee9 (published)\nKengo Shinoda, Ryo Sawada, Yudai Suwa, Takeru Suzuki, Ryosuke Hirai, Kazunari Iwasaki, Kengo Tomida, “Impacts of hydrogen envelope on supernova fallback and the resulting compact remnant masses,” Monthly Notices of the Royal Astronomical Society (accepted; proofs pending)."
   }
 ]
