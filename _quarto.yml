@@ -6,6 +6,7 @@ project:
     - about.qmd
     - publications.qmd
     - presentations.qmd
+    - seminars.qmd
     - notes.qmd
     - notes/
     - en/index.qmd
@@ -28,6 +29,8 @@ website:
         text: 業績
       - href: presentations.qmd
         text: 講演
+      - href: seminars.qmd
+        text: セミナー歴
       - href: notes.qmd
         text: ノート
     right:
