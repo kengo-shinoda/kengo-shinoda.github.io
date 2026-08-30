@@ -12,7 +12,7 @@ title: "論文 / Publications"
 
 ## 準備中論文
 
-1. Kengo Shinoda, Ryo Tazaki, Takato Tokuno, Yudai Suwa, manuscript in preparation on micron-sized graphite formation in supernova ejecta.
+1. Kengo Shinoda, Ryo Tazaki, Takato Tokuno, Yudai Suwa, manuscript in preparation on micron-sized presolar graphite formation in supernova ejecta.
 
 ## 研究課題・計算資源
 

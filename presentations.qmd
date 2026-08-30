@@ -4,11 +4,11 @@ title: "講演"
 
 ## 招待講演
 
-2. 篠田兼伍 (招待講演), *第二回 CHIPS 研究会* (2026年8月2日-5日, 山形・白川温泉 いいで白川荘).
+2. 篠田兼伍, "失敗型超新星におけるダスト形成と赤外線放射の時間発展", *第二回 CHIPS 研究会* (2026年8月2日-5日, 山形・白川温泉 いいで白川荘).
 
 <!-- -->
 
-1. 篠田兼伍, “闇落ち超新星爆発におけるダスト形成” (招待講演), *CHIPS研究会* (2026年1月25日).
+1. 篠田兼伍, “闇落ち超新星爆発におけるダスト形成”, *CHIPS研究会* (2026年1月25日).
 
 
 ---
@@ -34,6 +34,10 @@ title: "発表 / Presentations"
 1. Kengo Shinoda, Ryo Sawada, Yudai Suwa, Takeru Suzuki, Ryosuke Hirai, Kazunari Iwasaki, Kengo Tomida, “The Correlation between Supernova Fallback and Progenitor’s Hydrogen Envelope” (Poster), *The Progenitors of Supernovae and their Explosions* (2024, Dali, China).
 
 ## 国内会議における発表
+
+19. 篠田兼伍, 田崎亮, 徳野鷹人, 諏訪雄大, “失敗型超新星における赤外放射” (口頭), *第1回 輸送計算研究会* (2026, 東京大学駒場キャンパス16号館).
+
+<!-- -->
 
 18. 篠田兼伍, 田崎亮, 徳野鷹人, 諏訪雄大, “失敗型超新星におけるダスト形成” (口頭), *日本天文学会 2026年春年会* (2026, 京都産業大学).
 
