@@ -1,0 +1,28 @@
+---
+title: "プライバシーポリシー / Privacy Policy"
+toc: false
+---
+
+## 日本語
+
+このサイトでは、サイトの利用状況を把握し、内容を改善するために Google Analytics 4（Google LLC）を使用しています。
+
+Google Analytics は、閲覧したページ、参照元、ブラウザや端末の情報、おおよその地域、スクロールや外部リンクのクリックなどの操作情報を収集する場合があります。このサイトでは、氏名やメールアドレスなど、個人を直接特定する情報を Google Analytics に送信することを意図していません。
+
+アクセス解析用 Cookie は、訪問者が Cookie バナーで同意した場合にのみ使用されます。同意は、ページ下部の Cookie 設定リンクから後で変更できます。
+
+Google によるデータの取り扱いについては、[Google のサービスを使用するサイトやアプリから収集した情報の Google による使用](https://policies.google.com/technologies/partner-sites?hl=ja)をご確認ください。
+
+最終更新日: 2026年10月12日
+
+## English
+
+This website uses Google Analytics 4, provided by Google LLC, to understand site usage and improve its content.
+
+Google Analytics may collect information such as pages viewed, referral sources, browser and device information, approximate location, and interactions such as scrolling and outbound link clicks. This website does not intentionally send directly identifying information, such as names or email addresses, to Google Analytics.
+
+Analytics cookies are used only after a visitor provides consent through the cookie banner. Consent preferences can be changed later using the cookie settings link in the page footer.
+
+For details about how Google processes data, see [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites).
+
+Last updated: October 12, 2026

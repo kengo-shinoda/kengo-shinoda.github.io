@@ -8,6 +8,7 @@ project:
     - presentations.qmd
     - seminars.qmd
     - notes.qmd
+    - privacy.qmd
     - notes/
     - en/index.qmd
     - en/publications.qmd
@@ -38,6 +39,17 @@ website:
         text: English
   page-footer:
     center: "© 2026 Kengo Shinoda"
+    right:
+      - text: "Privacy"
+        href: privacy.qmd
+  cookie-consent:
+    type: express
+    style: simple
+    palette: light
+    policy-url: /privacy.html
+  google-analytics:
+    tracking-id: "G-N84KQXQ6QN"
+    anonymize-ip: true
 
 format:
   html:
