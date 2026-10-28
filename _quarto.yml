@@ -15,6 +15,7 @@ project:
     - en/presentations.qmd
   resources:
     - .nojekyll
+    - papers/
 
 lang: ja
 
