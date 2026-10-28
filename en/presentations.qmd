@@ -2,18 +2,112 @@
 title: "Presentations"
 ---
 
-[日本語へ戻る](../presentations.qmd)
-
 ## Invited Talks
 
-1. "Presentation Title." Event or Institution, Year.
-2. "Presentation Title." Event or Institution, Year.
+2. Kengo Shinoda, "Dust Formation and the Time Evolution of Infrared Emission in Failed Supernovae", *Second CHIPS Workshop* (August 2–5, 2026, Iide Shirakawaso, Shirakawa Onsen, Yamagata, Japan).
 
-## Conference Presentations
+<!-- -->
 
-1. "Presentation Title." Conference Name, Year.
-2. "Presentation Title." Conference Name, Year.
+1. Kengo Shinoda, “Dust Formation in Failed Supernovae”, *CHIPS Workshop* (January 25, 2026, KKR Hotel Biwako, Shiga, Japan).
 
-## Workshops and Seminars
+## Presentations at International Conferences
 
-- Workshop or seminar title, Year.
+2 oral presentations and 2 posters
+
+4. Kengo Shinoda, Ryo Tazaki, Takato Tokuno, Yudai Suwa, “Dust Formation in Failed Supernovae” (Poster), *Yukawa International Seminar 2026a (YKIS2026a)* (2026, Kyoto University, Japan).
+
+<!-- -->
+
+3. Kengo Shinoda, Ryo Sawada, Yudai Suwa, Takeru Suzuki, Ryosuke Hirai, Kazunari Iwasaki, Kengo Tomida, “The Correlation Between Supernova Fallback and Progenitor’s Hydrogen Envelope” (Oral), *SN2025gw: First IGWN Symposium on Core Collapse Supernova Gravitational Wave Theory and Detection* (2025, University of Warsaw, Poland).
+
+<!-- -->
+
+2. Kengo Shinoda, Ryo Sawada, Yudai Suwa, Takeru Suzuki, Ryosuke Hirai, Kazunari Iwasaki, Kengo Tomida, “Impact of Progenitor Hydrogen Envelope on Supernova Fallback” (Oral), *Breaking New Ground in Supernova Physics 2025 (BNGSP25)* (2025, Fukuoka University, Japan).
+
+<!-- -->
+
+1. Kengo Shinoda, Ryo Sawada, Yudai Suwa, Takeru Suzuki, Ryosuke Hirai, Kazunari Iwasaki, Kengo Tomida, “The Correlation between Supernova Fallback and Progenitor’s Hydrogen Envelope” (Poster), *The Progenitors of Supernovae and their Explosions* (2024, Dali, China).
+
+## Presentations at Domestic Conferences
+
+21. Kengo Shinoda, Ryo Tazaki, Takato Tokuno, Yudai Suwa, “Dust Formation in High-Energy Phenomena” (Oral), *Fall Meeting of the Japanese Society for Planetary Sciences 2026* (2026, Toki Messe, Niigata, Japan).
+
+<!-- -->
+
+20. Kengo Shinoda, Ryo Tazaki, Takato Tokuno, Yudai Suwa, “Dust Formation and the Time Evolution of Infrared Emission in Failed Supernovae” (Oral), *Autumn Annual Meeting of the Astronomical Society of Japan 2026* (2026, Okayama University of Science, Japan).
+
+<!-- -->
+
+19. Kengo Shinoda, Ryo Tazaki, Takato Tokuno, Yudai Suwa, “Infrared Emission from Failed Supernovae” (Oral), *First Workshop on Transport Calculations* (2026, Building 16, Komaba Campus, The University of Tokyo, Japan).
+
+<!-- -->
+
+18. Kengo Shinoda, Ryo Tazaki, Takato Tokuno, Yudai Suwa, “Dust Formation in Failed Supernovae” (Oral), *Spring Annual Meeting of the Astronomical Society of Japan 2026* (2026, Kyoto Sangyo University, Japan).
+
+<!-- -->
+
+17. Kengo Shinoda, Ryo Tazaki, Takato Tokuno, Yudai Suwa, “Dust Formation in Astrophysical Transients” (Oral), *Planet Formation Workshop 2026* (2026, Tohoku University, Japan).
+
+<!-- -->
+
+16. Kengo Shinoda, Ryo Tazaki, Takato Tokuno, Yudai Suwa, “Dust formation in failed supernova” (Oral), *Winter School on Multi-Messenger Astronomy 2026* (2026, Sugadaira Kogen Hotel Karasawa, Japan).
+
+<!-- -->
+
+15. Kengo Shinoda, Ryo Tazaki, Takato Tokuno, Yudai Suwa, “Dust Formation in Failed Supernovae” (Oral), *38th Symposium on Theoretical Astrophysics* (2025, University of Tsukuba, Japan).
+
+<!-- -->
+
+14. Kengo Shinoda, Ryo Tazaki, Takato Tokuno, Yudai Suwa, “Modeling Dust Formation and Evolution in Failed Supernovae” (Poster), *High-Energy Astrophysics Workshop 2025* (2025, The University of Osaka, Japan).
+
+<!-- -->
+
+13. Kengo Shinoda, Ryo Tazaki, Takato Tokuno, Yudai Suwa, “Dust Formation in Failed Supernovae” (Oral), *First Stars and First Galaxies Workshop 2025: From the First Stars to Life* (2025, AOSSA, Fukui, Japan).
+
+<!-- -->
+
+12. Kengo Shinoda, Ryo Tazaki, Takato Tokuno, Yudai Suwa, “A Comprehensive Parameter Study of Dust Formation in Supernovae” (Oral), *Fall Meeting of the Japanese Society for Planetary Sciences 2025* (2025, Komaba I Campus, The University of Tokyo, Japan).
+
+<!-- -->
+
+11. Kengo Shinoda, Ryo Sawada, Yudai Suwa, Takeru Suzuki, Ryosuke Hirai, Kazunari Iwasaki, Kengo Tomida, “Hydrodynamic Simulations of Supernova Fallback” (Oral), *Spring Annual Meeting of the Astronomical Society of Japan 2025* (2025, Mito Civic Hall, Mito, Ibaraki, Japan).
+
+<!-- -->
+
+10. Kengo Shinoda, Ryo Sawada, Yudai Suwa, Takeru Suzuki, Ryosuke Hirai, Kazunari Iwasaki, Kengo Tomida, “Numerical Hydrodynamic Simulations of Supernova Fallback” (Oral), *11th Supernova Neutrino Workshop* (2025, The University of Tokyo, Japan).
+
+<!-- -->
+
+9. Kengo Shinoda, Ryo Sawada, Yudai Suwa, Takeru Suzuki, Ryosuke Hirai, Kazunari Iwasaki, Kengo Tomida, “Numerical Hydrodynamic Simulations of Supernova Fallback” (Poster), *37th Symposium on Theoretical Astrophysics* (2024, National Astronomical Observatory of Japan).
+
+<!-- -->
+
+8. Kengo Shinoda, Ryo Sawada, Yudai Suwa, Takeru Suzuki, Ryosuke Hirai, Kazunari Iwasaki, Kengo Tomida, “Numerical Hydrodynamic Simulations of Supernova Fallback” (Oral), *High-Energy Astrophysics Workshop 2024* (2024, Tohoku University, Japan).
+
+<!-- -->
+
+7. Kengo Shinoda, Ryo Sawada, Yudai Suwa, Takeru Suzuki, Ryosuke Hirai, Kazunari Iwasaki, Kengo Tomida, “The Correlation between Supernova Fallback and Hydrogen Envelopes” (Oral), *Supernova Meeting in Fukui* (2024, Seifuso, Awara, Fukui, Japan).
+
+<!-- -->
+
+6. Kengo Shinoda, Ryo Sawada, Yudai Suwa, Takeru Suzuki, Ryosuke Hirai, Kazunari Iwasaki, Kengo Tomida, “Developing a New Method for Supernova Fallback Simulations” (Oral), *Autumn Annual Meeting of the Astronomical Society of Japan 2024* (2024, Kwansei Gakuin University, Japan).
+
+<!-- -->
+
+5. Kengo Shinoda, Ryo Sawada, Yudai Suwa, Takeru Suzuki, Ryosuke Hirai, Kazunari Iwasaki, Kengo Tomida, “Supernova Fallback Simulations for Late-Time Neutron Star Thermal Evolution” (Poster), *Meeting of the Transformative Research Area "Underground Rare Events"* (2024, The University of Osaka, Japan).
+
+<!-- -->
+
+4. Kengo Shinoda, Ryo Sawada, Yudai Suwa, Takeru Suzuki, Kazunari Iwasaki, Kengo Tomida, “Developing Boundary Conditions for Supernova Fallback Simulations” (Oral), *Spring Annual Meeting of the Astronomical Society of Japan 2024* (2024, The University of Tokyo, Japan).
+
+<!-- -->
+
+3. Kengo Shinoda, Ryo Sawada, Yudai Suwa, Kazunari Iwasaki, Kengo Tomida, “The Correlation between Supernova Fallback and Progenitor Hydrogen Envelopes” (Poster), *36th Symposium on Theoretical Astrophysics* (2023, Hirosaki University, Japan).
+
+<!-- -->
+
+2. Kengo Shinoda, Ryo Sawada, Yudai Suwa, Kazunari Iwasaki, Kengo Tomida, “The Correlation between Supernova Fallback and Progenitor Hydrogen Envelopes” (Oral), *Autumn Annual Meeting of the Astronomical Society of Japan 2023* (2023, Nagoya University, Japan).
+
+<!-- -->
+
+1. Kengo Shinoda, Ryo Sawada, Yudai Suwa, Kazunari Iwasaki, Kengo Tomida, “Developing Self-Gravitating Hydrodynamic Simulations for Supernova Fallback” (Poster), *35th Symposium on Theoretical Astrophysics* (2022, Corasse Fukushima, Fukushima, Japan).

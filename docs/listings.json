@@ -1,8 +1,15 @@
 [
   {
+    "listing": "/en/notes.html",
+    "items": [
+      "/en/notes/example.html"
+    ]
+  },
+  {
     "listing": "/notes.html",
     "items": [
-      "/notes/example.html"
+      "/notes/example.html",
+      "/en/notes/example.html"
     ]
   }
 ]

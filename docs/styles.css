@@ -12,10 +12,10 @@
   --site-white: #ffffff;
 }
 
-html[lang="ja"] {
-  --site-japanese-font: "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", "YuGothic", "Noto Sans JP", sans-serif;
-  --bs-body-font-family: var(--site-japanese-font);
-  --bs-font-sans-serif: var(--site-japanese-font);
+html {
+  --site-font: "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", "YuGothic", "Noto Sans JP", sans-serif;
+  --bs-body-font-family: var(--site-font);
+  --bs-font-sans-serif: var(--site-font);
 }
 
 body {
@@ -23,17 +23,21 @@ body {
   background: #f7f8f9;
 }
 
-html[lang="ja"] body {
-  font-family: var(--site-japanese-font);
+html body {
+  font-family: var(--site-font);
 }
 
-html[lang="ja"] #quarto-content,
-html[lang="ja"] #quarto-content :is(h1, h2, h3, h4, h5, h6, p, li, a, span, strong, em) {
-  font-family: var(--site-japanese-font);
+html #quarto-content,
+html #quarto-content :is(h1, h2, h3, h4, h5, h6, p, li, a, span, strong, em) {
+  font-family: var(--site-font);
 }
 
 a {
   color: var(--site-blue-700);
+}
+
+#quarto-content a {
+  overflow-wrap: anywhere;
 }
 
 .navbar {

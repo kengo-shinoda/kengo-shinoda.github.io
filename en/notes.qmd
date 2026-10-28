@@ -1,0 +1,10 @@
+---
+title: "Notes"
+listing:
+  contents: notes
+  type: default
+  sort: "date desc"
+  categories: true
+---
+
+Research notes, reading notes, and project records.

@@ -2,8 +2,6 @@
 title: "Publications"
 ---
 
-[日本語へ戻る](../publications.qmd)
-
 ## Publications
 
 1. Kengo Shinoda, Yudai Suwa, Ryosuke Hirai, Ryo Sawada, Kengo Tomida, Kazunari Iwasaki, Takeru K Suzuki, “The correlation between supernova fallback and progenitor’s hydrogen envelope,” *Classical and Quantum Gravity*, **43** (14), 145020 (2026). [https://doi.org/10.1088/1361-6382/ae7ee9](https://doi.org/10.1088/1361-6382/ae7ee9) (published)
@@ -12,4 +10,13 @@ title: "Publications"
 
 ## Papers in Preparation
 
-1. Kengo Shinoda, Ryo Tazaki, Takato Tokuno, Yudai Suwa, manuscript in preparation on micron-sized graphite formation in supernova ejecta.
+1. Kengo Shinoda, Ryo Tazaki, Takato Tokuno, Yudai Suwa, manuscript in preparation on micron-sized presolar graphite formation in supernova ejecta.
+
+## Research Projects and Computing Resources
+
+1. Kengo Shinoda (Principal Investigator), "Exploring the Origin of Neutron Star Spin Period Diversity with Three-Dimensional General Relativistic Magnetohydrodynamic Simulations," selected for an exploratory joint research project at the Joint Usage/Research Center for Interdisciplinary Large-scale Information Infrastructures (JHPCN), project EX25310, academic year 2025.
+   Miyabi computing allocation for young and female researchers, Information Technology Center, The University of Tokyo; allocation 2025-B-015, project code gq89, October 2025–March 2026.
+
+## Other Outputs
+
+- Datasets, software, reports, and other research outputs.

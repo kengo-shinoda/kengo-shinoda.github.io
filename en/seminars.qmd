@@ -1,0 +1,11 @@
+---
+title: "Seminars"
+---
+
+## Seminar Talks
+
+3. Kengo Shinoda, “From Supernova Fallback to Failed Supernovae: The Role of Hydrogen Envelopes in Compact Remnant Formation,” [ISAS Astrophysics Colloquia](https://www.isas.jaxa.jp/home/astro_colloq/) (July 16, 2026, 11:00–12:00, Institute of Space and Astronautical Science, JAXA).
+
+2. Kengo Shinoda, “From Supernova Fallback to Failed Supernovae: The Role of Hydrogen Envelopes in Compact Remnant Formation,” *Joint Seminar of the Yamada and Tsujikawa Groups, Waseda University* (June 26, 2026, 17:00–18:30, Waseda University).
+
+1. Kengo Shinoda, “Dust Formation as an Infrared Probe of Failed Supernovae and Black-Hole Birth,” *RESCEU Thursday Seminar* (June 11, 2026, 13:00–15:00, RESCEU, The University of Tokyo).

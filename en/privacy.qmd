@@ -1,0 +1,14 @@
+---
+title: "Privacy Policy"
+toc: false
+---
+
+This website uses Google Analytics 4, provided by Google LLC, to understand site usage and improve its content.
+
+Google Analytics may collect information such as pages viewed, referral sources, browser and device information, approximate location, and interactions such as scrolling and outbound link clicks. This website does not intentionally send directly identifying information, such as names or email addresses, to Google Analytics.
+
+Analytics cookies are used only after a visitor provides consent through the cookie banner. Consent preferences can be changed later using the cookie settings link in the page footer.
+
+For details about how Google processes data, see [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites).
+
+Last updated: October 12, 2026

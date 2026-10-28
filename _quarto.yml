@@ -11,8 +11,15 @@ project:
     - privacy.qmd
     - notes/
     - en/index.qmd
+    - en/about.qmd
     - en/publications.qmd
     - en/presentations.qmd
+    - en/seminars.qmd
+    - en/notes.qmd
+    - en/privacy.qmd
+    - en/notes/
+  post-render:
+    - python3 scripts/localize-navigation.py
   resources:
     - .nojekyll
     - papers/

@@ -1,12 +1,40 @@
 ---
-title: "Home"
+pagetitle: "Website of Kengo Shinoda | Kengo Shinoda"
+page-layout: full
+toc: false
 ---
 
-[日本語へ戻る](../index.qmd)
+::: {.home-page .column-screen}
+::: {.home-hero}
+::: {.home-hero__inner}
+<p class="home-hero__eyebrow">ASTROPHYSICS · COMPUTATIONAL SCIENCE</p>
 
-Welcome. This is the English section of the personal research website.
+# Website of Kengo Shinoda
 
-This section includes selected English pages:
+<p class="home-hero__name">Kengo Shinoda</p>
 
-- [Publications](publications.qmd)
-- [Presentations](presentations.qmd)
+<p class="home-hero__role">Doctoral Student in Astronomy</p>
+:::
+:::
+
+::: {.home-profile}
+::: {.home-profile__inner}
+![](../images/profile.png){.profile-photo alt="Portrait of Kengo Shinoda"}
+
+::: {.profile-introduction}
+<p class="section-label">WELCOME</p>
+
+## Welcome
+
+I am a doctoral student in the Department of Astronomy, Graduate School of Science, The University of Tokyo.
+
+For my research activities, please see [Publications](publications.qmd) and [Presentations](presentations.qmd).
+
+::: {.profile-actions}
+[Profile](about.qmd){.profile-action .profile-action--secondary}
+:::
+:::
+:::
+:::
+
+:::
