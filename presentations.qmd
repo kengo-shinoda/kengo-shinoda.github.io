@@ -4,7 +4,7 @@ title: "発表 / Presentations"
 
 ## 招待講演
 
-3. 篠田兼伍, “Time Evolution of Dust Formation and Infrared Emission in Failed Supernovae”, *The Coolest Fireworks: Cross-Field Perspectives on Dusty Astrophysical Transients Workshop* (2026年10月27日-30日, Flatiron Institute / Simons Foundation, ニューヨーク, 米国).
+3. 篠田兼伍, 田崎亮, 徳野鷹人, 諏訪雄大, “Time Evolution of Dust Formation and Infrared Emission in Failed Supernovae”, *The Coolest Fireworks: Cross-Field Perspectives on Dusty Astrophysical Transients Workshop* (2026年10月27日-30日, Flatiron Institute / Simons Foundation, ニューヨーク, 米国).
 
 <!-- -->
 
@@ -19,7 +19,7 @@ title: "発表 / Presentations"
 
 口頭 3 件、ポスター 2 件
 
-5. Kengo Shinoda, “Time Evolution of Dust Formation and Infrared Emission in Failed Supernovae” (Oral), *The Coolest Fireworks: Cross-Field Perspectives on Dusty Astrophysical Transients Workshop* (2026, Flatiron Institute / Simons Foundation, New York, USA).
+5. Kengo Shinoda, Ryo Tazaki, Takato Tokuno, Yudai Suwa, “Time Evolution of Dust Formation and Infrared Emission in Failed Supernovae” (Oral), *The Coolest Fireworks: Cross-Field Perspectives on Dusty Astrophysical Transients Workshop* (2026, Flatiron Institute / Simons Foundation, New York, USA).
 
 <!-- -->
 
