@@ -17,7 +17,11 @@ title: "発表 / Presentations"
 
 ## 国際会議における発表
 
-口頭 2 件、ポスター 2 件
+口頭 3 件、ポスター 2 件
+
+5. Kengo Shinoda, “Time Evolution of Dust Formation and Infrared Emission in Failed Supernovae” (Oral), *The Coolest Fireworks: Cross-Field Perspectives on Dusty Astrophysical Transients Workshop* (2026, Flatiron Institute / Simons Foundation, New York, USA).
+
+<!-- -->
 
 4. Kengo Shinoda, Ryo Tazaki, Takato Tokuno, Yudai Suwa, “Dust Formation in Failed Supernovae” (Poster), *Yukawa International Seminar 2026a (YKIS2026a)* (2026, Kyoto University, Japan).
 
