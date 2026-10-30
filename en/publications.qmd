@@ -8,9 +8,7 @@ title: "Publications"
 
 2. Kengo Shinoda, Yudai Suwa, Ryosuke Hirai, Ryo Sawada, Kengo Tomida, Kazunari Iwasaki, Takeru K Suzuki, “Impacts of hydrogen envelope on supernova fallback and the resulting compact remnant masses,” *Monthly Notices of the Royal Astronomical Society*, **552** (1), stag1388 (2026). [https://doi.org/10.1093/mnras/stag1388](https://doi.org/10.1093/mnras/stag1388) (published)
 
-## Papers in Preparation
-
-1. Kengo Shinoda, Ryo Tazaki, Takato Tokuno, Yudai Suwa, manuscript in preparation on micron-sized presolar graphite formation in supernova ejecta.
+3. Kengo Shinoda, Ryo Tazaki, Takato Tokuno, Yudai Suwa, “Formation of Micron-sized Presolar Graphite Grains in Low-energy Supernova Ejecta,” (2026), submitted (on hold).
 
 ## Research Projects and Computing Resources
 
