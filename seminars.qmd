@@ -4,6 +4,10 @@ title: "セミナー歴"
 
 ## セミナー講演
 
+4. 篠田兼伍, “超新星フォールバックから失敗型超新星まで: コンパクト天体形成における水素外層の影響,” *信州大学セミナー* (2026年10月19日, 14:30, 信州大学工学部 W1棟302号室).
+
+<!-- -->
+
 3. 篠田兼伍, “From Supernova Fallback to Failed Supernovae: The Role of Hydrogen Envelopes in Compact Remnant Formation,” [ISAS Astrophysics Colloquia (JAXA宇宙科学研究所)](https://www.isas.jaxa.jp/home/astro_colloq/) (2026年7月16日, 11:00-12:00, JAXA宇宙科学研究所).
 
 <!-- -->

@@ -4,6 +4,10 @@ title: "Seminars"
 
 ## Seminar Talks
 
+4. Kengo Shinoda, “From Supernova Fallback to Failed Supernovae: The Role of Hydrogen Envelopes in Compact Remnant Formation,” *Shinshu University Seminar* (October 19, 2026, 14:30, Room 302, Building W1, Faculty of Engineering, Shinshu University).
+
+<!-- -->
+
 3. Kengo Shinoda, “From Supernova Fallback to Failed Supernovae: The Role of Hydrogen Envelopes in Compact Remnant Formation,” [ISAS Astrophysics Colloquia](https://www.isas.jaxa.jp/home/astro_colloq/) (July 16, 2026, 11:00–12:00, Institute of Space and Astronautical Science, JAXA).
 
 <!-- -->
