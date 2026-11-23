@@ -16,7 +16,11 @@ title: "Presentations"
 
 ## Presentations at International Conferences
 
-3 oral presentations and 2 posters
+4 oral presentations and 2 posters
+
+6. Kengo Shinoda, “Time Evolution of Dust Formation and Infrared Emission in Failed Supernovae” (Oral), *[Illuminating the Cosmos: Chemical Elements in Stars, Planets, Nebulae, and Transient Extra-galactic Events](https://indico.nbi.ku.dk/event/2262/)* (November 9–13, 2026, Haus der Astronomie, Heidelberg, Germany).
+
+<!-- -->
 
 5. Kengo Shinoda, Ryo Tazaki, Takato Tokuno, Yudai Suwa, “Time Evolution of Dust Formation and Infrared Emission in Failed Supernovae” (Oral), *The Coolest Fireworks: Cross-Field Perspectives on Dusty Astrophysical Transients Workshop* (2026, Flatiron Institute / Simons Foundation, New York, USA).
 
