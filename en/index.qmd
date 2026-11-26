@@ -1,6 +1,7 @@
 ---
 pagetitle: "Website of Kengo Shinoda | Kengo Shinoda"
 page-layout: full
+body-classes: home-layout
 toc: false
 ---
 

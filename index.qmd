@@ -1,6 +1,7 @@
 ---
 pagetitle: "Website of Kengo Shinoda | 篠田兼伍"
 page-layout: full
+body-classes: home-layout
 toc: false
 ---
 

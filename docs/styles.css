@@ -79,10 +79,20 @@ a {
   background: #9fc3e4;
 }
 
+/* The home hero meets the navbar without Quarto's article/title spacing. */
+body.home-layout #quarto-document-content {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+body.home-layout #title-block-header {
+  display: none;
+}
+
 .home-page {
   grid-column: screen-start / screen-end !important;
   width: 100%;
-  margin-top: -1rem;
+  margin-top: 0;
 }
 
 .home-hero {
